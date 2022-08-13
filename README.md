@@ -1,7 +1,7 @@
 # churn_clientes
 Previsão se um dado cliente do e-commerce continuará comprando na plataforma.
 
-CHURN DE CLIENTES
+# CHURN DE CLIENTES
 
 O desafio de prever se um cliente irá sair da Base de Clientes Ativos (também conhecido como churn) não é um problema exclusivo do varejo, sendo uma área de estudos constante da maioria das indústrias e empresas de serviços que dependem da retenção. A solução em si já traz muito valor, se tiver alto índice de acertos pode ser usada para elencar automaticamente clientes com alto risco de churn para uma promoção agressiva com o objetivo retê-lo na base.
 
